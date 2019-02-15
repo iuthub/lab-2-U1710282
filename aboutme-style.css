@@ -1,0 +1,9 @@
+h1 {
+  color: white;
+}
+p {
+	font-family: Courier New;
+	border: 1px solid powderblue;
+  padding: 30px;
+  color: white;
+}
